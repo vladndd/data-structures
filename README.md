@@ -4,8 +4,8 @@
 
 
 ## LinkedList
-linkedList = LinkedList() create LinkedList
-linkedList.add(4)         add to LinkedList
-linkedList.size()         LinkedList size
-linkedList.search(4)      search node in LinkedList
-print(linkedList)         represent LinkedList
+**linkedList = LinkedList()**     create LinkedList<br />
+**linkedList.add(4)**             add to LinkedList<br />
+**linkedList.size()**             LinkedList size<br />
+**linkedList.search(4)**          search node in LinkedList<br />
+**print(linkedList)**             represent LinkedList<br />
